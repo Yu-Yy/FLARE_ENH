@@ -62,5 +62,10 @@ If you use these modules in your research, please cite:
 For any questions or feedback, feel free to open an issue or contact [Zhiyu Pan](pzy20@mails.tsinghua.edu.cn).
 
 
+---
 
+## ⚠️ License & Usage Notice
+
+This repository is released **for academic research and educational purposes only**.
+**Commercial use is strictly prohibited.**
 
