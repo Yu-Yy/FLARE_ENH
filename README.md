@@ -36,11 +36,21 @@ Download the [UNetEnh](https://cloud.tsinghua.edu.cn/f/2abf5af2c0064c24a262/?dl=
 ```bash
 python deploy_unetenh.py -f /path/to/image
 ```
+or 
+```bash
+python deploy_unetenh.py -f /path/to/image -e
+```
 
 ### 🔹 PriorEnh
 ```bash
 python deploy_priorenh.py -f /path/to/image
 ```
+or 
+```bash
+python deploy_unetenh.py -f /path/to/image -e
+```
+
+The -e flag enables an optional contrast enhancement step prior to processing.
 
 
 ## 📄 Citation
