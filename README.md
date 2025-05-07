@@ -58,11 +58,12 @@ The -e flag enables an optional contrast enhancement step prior to processing.
 If you use these modules in your research, please cite:
 
 ```
-@article{Pan2025FLARE,
-  title={FLARE: Fixed-Length Dense Descriptor with Fingerprint Enhancement and Alignment for Effective Fingerprint Matching},
-  author={Zhiyu Pan and [Other authors]},
-  journal={IEEE Transactions on Information Forensics and Security},
-  year={2025}
+@article{pan2025flare,
+  title={Fixed-Length Dense Fingerprint Representation},
+  author={Pan, Zhiyu and Guan, Xiongjun and Duan, Yongjie and Feng, Jianjiang and Zhou, Jie},
+  journal={arXiv preprint arXiv:2505.03597},
+  year={2025},
+  url={https://arxiv.org/abs/2505.03597}
 }
 ```
 
