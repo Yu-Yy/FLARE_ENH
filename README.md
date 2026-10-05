@@ -47,8 +47,10 @@ python deploy_priorenh.py -f /path/to/image
 ```
 or 
 ```bash
-python deploy_unetenh.py -f /path/to/image -e
+python deploy_priorenh.py -f /path/to/image -e
 ```
+
+`-w` sets the weight of the ridge-prior features (default 0.5).
 
 The -e flag enables an optional contrast enhancement step prior to processing.
 
